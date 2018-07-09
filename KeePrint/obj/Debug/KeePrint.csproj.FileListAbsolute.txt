@@ -1,0 +1,17 @@
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\bin\Debug\KeePrint.dll
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\bin\Debug\KeePrint.pdb
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\bin\Debug\KeePass.exe
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\bin\Debug\KeePass.exe.config
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\bin\Debug\KeePass.XmlSerializers.dll
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\obj\Debug\KeePrint.csproj.CoreCompileInputs.cache
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\obj\Debug\KeePrint.dll
+C:\Users\ns2133\source\repos\KSAG_KeePrint\KSAG_KeePrint\obj\Debug\KeePrint.pdb
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\bin\Debug\KeePrint.dll
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\bin\Debug\KeePrint.pdb
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\bin\Debug\KeePass.exe
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\bin\Debug\KeePass.exe.config
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\bin\Debug\KeePass.XmlSerializers.dll
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\obj\Debug\KeePrint.csprojResolveAssemblyReference.cache
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\obj\Debug\KeePrint.csproj.CoreCompileInputs.cache
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\obj\Debug\KeePrint.dll
+C:\Users\ns2133\Documents\GitHub\KeePrint\KeePrint\obj\Debug\KeePrint.pdb
